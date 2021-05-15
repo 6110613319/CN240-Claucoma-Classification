@@ -1,1 +1,1 @@
-# CN240-Claucoma-Classification
+# CN240-Glaucoma-Classification
