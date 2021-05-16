@@ -1,1 +1,7 @@
-# CN240-Glaucoma-Classification
+# CN 240 Data Science for Signal Processing
+## Glaucoma Classification
+### by
+#### 6110520134   ณัฐพงศ์ เชาวเจริญพงศ์
+#### 6110613079   ชุติกาญจน์ กุศลเอี่ยม
+#### 6110613319   ณัฐพร วิมลอนุพงษ์
+#### 6110680565   ธาม เธียระวิบูลย์
